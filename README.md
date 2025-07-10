@@ -1,70 +1,76 @@
 # 👋 Hi there, I'm Shubham Janwale!
 
-🎓 Electronics & Telecommunication Engineer | 💻 Java & Python Developer | 🌐 Web & IoT Enthusiast
+🎓 Electronics & Telecommunication Engineer | 💻 Full-Stack Developer | 🌐 Embedded & IoT Enthusiast
 
 ---
 
 ## 🔥 About Me
 
-I’m a dynamic and results-oriented B.Tech graduate in **Electronics and Telecommunication Engineering** from G.H. Raisoni College of Engineering and Management, Pune. I have a strong academic foundation combined with hands-on project experience in:
+I’m a passionate **Electronics & Telecommunication Engineering** graduate from  
+**G.H. Raisoni College of Engineering & Management, Pune**, with hands-on experience in:
 
-- Circuit design
-- Signal processing
-- Embedded systems
-- Full-stack web development
+- Full-stack web development  
+- Embedded systems & automation  
+- IoT solutions using Raspberry Pi & Arduino  
+- Machine learning-based applications
 
-Currently working as a **Software Development Intern** at **Maibasoft Technologies Pvt. Ltd.**, I’m always exploring ways to integrate innovation and technology to solve real-world problems.
+Currently working as a **Software Development Intern** at **Maibasoft Technologies Pvt. Ltd.**, Pune,  
+I bring a unique blend of hardware and software skills to solve real-world challenges through innovation.
 
 ---
 
 ## 🚀 Tech Stack
 
-- **Languages:** Java, Python, Embedded C, SQL, MATLAB, HTML, CSS, JavaScript  
-- **Frameworks & Tools:** Spring Boot, Hibernate, MySQL, Jupyter Notebook, Keil µVision, Eclipse, VS Code  
-- **Core Areas:** Circuit Design, Signal Processing, Communication Systems
+- **Languages:** Java, Python, SQL, JavaScript, MATLAB, TypeScript  
+- **Frameworks & Tools:** Spring Boot, Angular, Hibernate, Servlets/JSP, MySQL, Librosa, Scikit-learn  
+- **Core Skills:** Full-stack web development, Smart automation, IoT integration, ML audio processing
 
 ---
 
 ## 🛠️ Projects
 
-- 🎙️ **ML-Based Speech Recognition & Speaker ID**  
-  Integrated hardware-software project using machine learning for real-time speech recognition and speaker detection.
+### 🧠 Medical Learner Website (Full Stack)  
+A responsive educational platform for medical students built with Java, MySQL, and HTML/CSS/JS.
 
-- 🔌 **Arduino & Sensor-Based Applications**  
-  Built smart automation systems using Arduino and various environmental sensors.
+### 🎙️ ML-Based Speech Recognition & Speaker ID  
+Real-time system for voice and speaker recognition using audio processing and ML classification.
 
-- 🛒 **E-Commerce Web Application**  
-  Designed and developed a fully functional shopping website showcasing frontend development skills.
+### 🛒 E-Commerce Web Design (Full Stack)  
+Dynamic e-commerce site developed using Java Servlets/JSP, with login, product management, and order handling.
 
-- 🌐 **Raspberry Pi IoT Project**  
-  Developed innovative IoT applications using Raspberry Pi for seamless smart device integration.
+### 🔌 Arduino & Sensor Smart Applications  
+Automation systems using Arduino and sensors for environmental monitoring and real-time alerts.
+
+### 🌐 IoT Project Using Raspberry Pi  
+Smart IoT system integrating cloud for live monitoring and remote device control using sensor data.
 
 ---
 
 ## 🧑‍💼 Experience
 
 **Software Development Intern**  
-*Maibasoft Technologies Pvt. Ltd.*  
-📆 *Jan 2025 – Present*  
-Working on real-world projects involving Java, Hibernate, Spring Boot, and MySQL.
+📍 *Maibasoft Technologies Pvt. Ltd., Pune*  
+🗓️ *Jan 2025 – Present*  
+- Worked on full-stack development using Java, Spring Boot, Hibernate, and MySQL.  
+- Contributed to scalable and secure real-world application modules.
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Currently Exploring
 
-- Spring Boot and REST APIs  
-- Advanced Java backend development  
-- Scalable IoT systems using Raspberry Pi and ESP32
+- REST API development with Spring Boot  
+- Angular for responsive frontend development  
+- Scalable IoT systems with Raspberry Pi and cloud integration
 
 ---
 
 ## 📫 Connect with Me
 
-- ✉️ Email: [shubham.janwale1111@gmail.com](mailto:shubham.janwale1111@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/shubham-janwale-439012227](https://www.linkedin.com/in/shubham-janwale-439012227/)  
-- 📍 Pune, India
+- ✉️ **Email:** [shubham.janwale1111@gmail.com](mailto:shubham.janwale1111@gmail.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/shubham-janwale-439012227](https://www.linkedin.com/in/shubham-janwale-439012227/)  
+- 🐙 **GitHub:** [github.com/shubh363](https://github.com/shubh363)  
+- 📍 **Location:** Pune, India
 
 ---
 
-> “I believe in building tech that makes life simpler, smarter, and better.”
-
+> *“I believe in building tech that makes life simpler, smarter, and better.”*
