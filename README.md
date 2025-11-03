@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Shubham Janwale!
 
-🎓 Electronics & Telecommunication Engineer | 💻 Full-Stack Developer | 🌐 Embedded & IoT Enthusiast
-
+🎓 Electronics & Telecommunication Engineer | 💻 Full-Stack Developer | 🌐 AI Tech Enthusiast | 
+ 
 ---
 
 ## 🔥 About Me
